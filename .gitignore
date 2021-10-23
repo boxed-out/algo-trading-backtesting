@@ -1,0 +1,6 @@
+*.tex
+*.docx
+*.bib
+Makefile
+*.txt
+literatures/
